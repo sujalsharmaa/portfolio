@@ -1,6 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
+import Image from 'next/image';
 import { ArrowRight, Github, Linkedin, Mail } from 'lucide-react';
 
 const Hero = () => {
@@ -41,13 +42,24 @@ const Hero = () => {
             </div>
           </motion.div>
 
-          <motion.h1
+          <motion.div variants={itemVariants} className="flex items-center justify-center mb-6">
+            <div className="mr-6">
+              <Image
+                src="/sujalsharma_image%20-%20Copy.jpg"
+                alt="Sujal Sharma"
+                width={160}
+                height={160}
+                className="rounded-full object-cover"
+              />
+            </div>
+            <motion.h1
             variants={itemVariants}
             className="text-5xl sm:text-6xl md:text-7xl font-bold mb-6"
           >
             Hi, I'm{' '}
             <span className="gradient-text">Sujal Sharma</span>
           </motion.h1>
+          </motion.div>
 
           <motion.p
             variants={itemVariants}
