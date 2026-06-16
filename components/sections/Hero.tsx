@@ -92,6 +92,14 @@ const Hero = () => {
             >
               Get In Touch
             </a>
+            <a
+              href="/Sujal_Sharma_ATS_Cloud_DevOps_Resume (1).docx"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center justify-center px-6 py-3 bg-secondary text-white rounded-lg hover:opacity-90 font-semibold transition-colors"
+            >
+              Download Resume
+            </a>
           </motion.div>
 
           <motion.div

@@ -13,6 +13,7 @@ const Navbar = () => {
     { href: '#skills', label: 'Skills' },
     { href: '#projects', label: 'Projects' },
     { href: '#contact', label: 'Contact' },
+    { href: '/Sujal_Sharma_ATS_Cloud_DevOps_Resume (1).docx', label: 'Resume' },
   ];
 
   return (

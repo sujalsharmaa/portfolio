@@ -5,28 +5,32 @@ import { motion } from 'framer-motion';
 const Skills = () => {
   const skillCategories = [
     {
-      category: 'Container & Orchestration',
-      skills: ['Kubernetes', 'Docker', 'Docker Compose', 'Helm'],
+      category: 'Cloud & Platforms',
+      skills: ['AWS (EKS, EC2, S3, IAM, Route53, CloudFront, Lambda, RDS, CloudWatch, API Gateway)', 'Terraform', 'Serverless'],
     },
     {
-      category: 'Cloud Platforms',
-      skills: ['AWS', 'AWS EC2', 'AWS RDS', 'AWS S3', 'AWS IAM'],
+      category: 'Containerization & Orchestration',
+      skills: ['Docker', 'Kubernetes (EKS)', 'Helm', 'Istio'],
+    },
+    {
+      category: 'Observability',
+      skills: ['Prometheus', 'Grafana', 'Kiali', 'CloudWatch'],
     },
     {
       category: 'Databases',
-      skills: ['PostgreSQL', 'MongoDB', 'Redis', 'Elasticsearch'],
+      skills: ['PostgreSQL', 'MongoDB', 'Redis', 'Elasticsearch', 'DynamoDB', 'ChromaDB'],
     },
     {
-      category: 'Programming Languages',
-      skills: ['Go', 'TypeScript', 'Python', 'JavaScript', 'Java'],
+      category: 'Backend & Languages',
+      skills: ['Node.js', 'Express.js', 'Java', 'Python', 'JavaScript', 'TypeScript'],
     },
     {
-      category: 'Backend Frameworks',
-      skills: ['Node.js', 'GraphQL', 'gRPC', 'Spring Boot'],
+      category: 'DevOps & CI/CD',
+      skills: ['Jenkins', 'Argo CD', 'GitOps', 'Bash', 'Linux'],
     },
     {
-      category: 'DevOps & Tools',
-      skills: ['GitHub Actions', 'Git', 'Linux', 'Terraform', 'Prometheus'],
+      category: 'Messaging & Streaming',
+      skills: ['Kafka', 'Redis Pub/Sub'],
     },
   ];
 

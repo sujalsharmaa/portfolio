@@ -6,12 +6,20 @@ import { Award } from 'lucide-react';
 const Certifications = () => {
   const certifications = [
     {
-      title: 'AWS Certified Solutions Architect - Associate',
-      code: 'SAA-C03',
+      title: 'AWS Certified Developer – Associate',
+      code: '',
       issuer: 'Amazon Web Services',
-      date: '2024',
-      description: 'Validated expertise in designing distributed systems on AWS',
-      link: 'https://github.com/sujalsharmaa/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Practice-Tests-Exams-Questions-Answers',
+      date: '2026',
+      description: 'AWS Certified Developer – Associate',
+      link: '#',
+    },
+    {
+      title: 'HashiCorp Certified: Terraform Associate',
+      code: '',
+      issuer: 'HashiCorp',
+      date: '2026',
+      description: 'Terraform Associate certification',
+      link: '#',
     },
   ];
 

@@ -1,0 +1,18 @@
+
+SUJAL SHARMACloud Engineer | DevOps Engineer | Platform Engineer9109928735 | sujalsharma151@gmail.comLinkedIn: linkedin.com/in/sujal-sharma-b441ba23b | GitHub: github.com/sujalsharmaa
+PROFESSIONAL SUMMARY
+AWS Certified Developer Associate and HashiCorp Terraform Associate with hands-on experience building cloud-native applications, Kubernetes platforms, CI/CD pipelines, GitOps workflows, microservices, observability stacks, and scalable backend systems. Skilled in AWS, Terraform, Docker, Kubernetes, Jenkins, Argo CD, Istio, Prometheus, Grafana, Node.js, PostgreSQL, Redis, and Kafka.
+TECHNICAL SKILLS
+Cloud: AWS (EKS, EC2, IAM, S3, CloudFront, Route53, Lambda, RDS, CloudWatch,Lambda,API Gateway)DevOps: Linux,Bash, Docker, Kubernetes, Terraform, Jenkins, Argo CD, Istio,NginxObservability: Prometheus, Grafana,KialiBackend: Node.js, Express.js, Spring Boot, REST APIs, MicroservicesDatabases: PostgreSQL, MongoDB, Redis, ChromaDB,ElasticSearch,DynamoDBProgramming: JavaScript, Java, PythonMessaging: Kafka, Redis Pub/sub
+CERTIFICATIONS
+4464050101600037877751016000• AWS Certified Developer – Associate (2026) 
+• HashiCorp Certified: Terraform Associate (004) (2026) 
+PROJECTS
+CloudSync – Cloud-Native Storage Platform (https://drive.sujalsharma.in)• Designed a distributed microservices architecture for file storage and processing.• Implemented reactive uploads, AI-powered content moderation, metadata extraction, and quota validation.• Leveraged AWS, Kubernetes, Docker, Kafka, Redis, PostgreSQL, and GitOps deployment practices.
+SheetWise – Real-Time Collaborative Spreadsheet Platform (https://sujalsharma.in) (https://youtu.be/WFE_2O74kj8)
+• Built an Excel/Google Sheets-inspired application with collaborative editing and AI spreadsheet assistent• Developed scalable backend services using Node.js, PostgreSQL, Redis, and WebSockets.• Designed for cloud deployment, observability, and horizontal scalability.
+YouTube Comments Downloader  https://comments.sujalsharma.in)• Developed a backend system to collect, process, and export large volumes of YouTube comments.• Built API integrations and automated data-processing workflows.
+TECHNICAL WRITING
+• PainPoints of Maneuvering Distributed Microservices in CloudSync with Limited Budget (Medium)• The Engineering Pain Points Behind Building Excel Clone SheetWise (Medium)
+EDUCATION
+Bachelor of Computer Applications (BCA) | Shri Vaishnav Institute of Management, DAVV IndoreCGPA: 7.95 | First Division
